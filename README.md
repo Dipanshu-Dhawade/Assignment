@@ -5,7 +5,7 @@
   <b>Spring Boot API to analyze GitHub organization repository access</b><br>
   Generate structured reports of users and their repository permissions
 </p>
-
+-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange"/>
   <img src="https://img.shields.io/badge/SpringBoot-3.x-green"/>
