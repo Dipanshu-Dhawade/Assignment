@@ -1,6 +1,5 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center"> GitHub Access Report Service</h1>
-
 <p align="center">
   <b>Spring Boot API to analyze GitHub organization repository access</b><br>
   Generate structured reports of users and their repository permissions
